@@ -58,7 +58,7 @@ Create blog post component and automate list of posts
 
 Blog post with MDX
 
-* install astro MDX support with `npx astro add mdx`
+* install astro MDX support with `npm install @astrojs/mdx`
 
 ## Step 15
 
@@ -81,6 +81,9 @@ Add Dark/Light theming
 
 * Shows adding pure Javascript to project
 
+* Execute `npx astro add preact` or `npm install @astrojs/preact`
+* Will make changes to `astro.config.mjs` and 'tsconfig.json`
+
 ## Step 18
 
 * Astro Collections!
@@ -95,3 +98,4 @@ Add Dark/Light theming
 
 * Use the Astro:image component to easily add images
 * Add an image to the About page
+* Will make changes to `astro.config.mjs` and 'tsconfig.json`
