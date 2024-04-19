@@ -58,7 +58,7 @@ Create blog post component and automate list of posts
 
 Blog post with MDX
 
-* install astro MDX support with `npx astro add mdx`
+* install astro MDX support with `npm install @astrojs/mdx`
 
 ## Step 15
 
@@ -81,6 +81,9 @@ Add Dark/Light theming
 
 * Shows adding pure Javascript to project
 
+* Execute `npx astro add preact` or `npm install @astrojs/preact`
+* Will make changes to `astro.config.mjs` and 'tsconfig.json`
+
 ## Step 18
 
 * Astro Collections!
@@ -101,3 +104,4 @@ Add Dark/Light theming
 * Deploy the app to Vercel as a Server-side rendered app
 * Deploy via the vercel command line: `npm install -g vercel`
 *
+* Will make changes to `astro.config.mjs` and 'tsconfig.json`
