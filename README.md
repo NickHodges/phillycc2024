@@ -100,4 +100,4 @@ Add Dark/Light theming
 
 * Deploy the app to Vercel as a Server-side rendered app
 * Deploy via the vercel command line: `npm install -g vercel`
-*
+* had to run `npm i @rollup/rollup-linux-x64-gnu --save-optional` to please Vercel
