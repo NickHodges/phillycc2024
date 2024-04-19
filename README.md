@@ -58,10 +58,11 @@ Create blog post component and automate list of posts
 
 Blog post with MDX
 
-* install astro MDX support with `npx astro add mdx`
+* install astro MDX support with `npm install @astrojs/mdx`
 
 ## Step 15
 
 Add an RSS feed
 
 * Execute `npm install @astrojs/rss`
+
