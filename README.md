@@ -58,7 +58,7 @@ Create blog post component and automate list of posts
 
 Blog post with MDX
 
-* install astro MDX support with `npx astro add mdx`
+* install astro MDX support with `npm install @astrojs/mdx`
 
 ## Step 15
 
@@ -70,5 +70,5 @@ Add an RSS feed
 
 Add Astro Islands with Preact
 
-* Execute `npx astro add preact`
+* Execute `npx astro add preact` or `npm install @astrojs/preact`
 * Will make changes to `astro.config.mjs` and 'tsconfig.json`
